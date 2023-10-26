@@ -14,7 +14,7 @@ Email: hjiang[aT]microsoft[DoT.]com
 
 Huiqiang Jiang obtained his Master's Degree in Software Engineering from Peking University, working with A.P. Xiang Jing. And also was an research intern at the KC Group, Microsoft Research Asia (19/6-21/3) with Börje Karlsson and Guoxin Wang as well as the search group, Ant Group (20/6-20/8).<br>
 
-Huiqiang's research primarily concentrates on efficient methods to accelerate inference or training, including prompt compression, KV-cache compression, speculative decoding, model compression, sparse inference, neural architecture search (NAS), and efficient tuning, with a particular emphasis on LLMs. Additionally, he is interested in addressing typical challenges in natural language processing, such as information extraction.
+Huiqiang's research primarily concentrates on efficient methods to accelerate inference or training, including prompt compression (<a href="https://llmlingua.com/">LLMLingua</a>), KV-cache compression, speculative decoding, model compression, sparse inference, neural architecture search (NAS), and efficient tuning, with a particular emphasis on LLMs. Additionally, he is interested in addressing typical challenges in natural language processing, such as information extraction.
 
 **He's looking for one research intern in efficient methods**. Please get in touch with him (hjiang[aT]microsoft[DoT.]com) if you are interested in the research topics.
 
